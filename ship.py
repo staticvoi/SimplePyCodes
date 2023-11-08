@@ -1,0 +1,2 @@
+def shippCal():
+    print("shipped")

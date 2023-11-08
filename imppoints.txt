@@ -1,0 +1,8 @@
+
+# read question 3 times
+# write input output
+# write test cases like [], [1,1] same numbers, [2,7,2,7] repeating sequence, [123,23] if no answer has to be returned
+# guess the way to get solution
+# find complexity of solution
+# think out of box
+# write l = len(n) else calculate everytime in loop
